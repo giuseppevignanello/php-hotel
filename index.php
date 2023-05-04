@@ -42,7 +42,7 @@ $hotels = [
 //Hotels array
 
 $parking = $_GET["parking"];
-
+$vote = $_GET["vote"];
 
 var_dump($_GET);
 
@@ -69,18 +69,18 @@ var_dump($_GET);
             <div class="mb-5">
                 <label for="parking" class="form-label">Parking</label>
                 <select class="form-select form-select-lg" name="parking" id="parking">
-                    <option selected></option>
+                    <option selected>All</option>
                     <option value="yes">Yes</option>
                     <option value="no">No</option>
                 </select>
                 <button type="submit" name="parking_submit" class="btn btn-primary">OK</button>
             </div>
         </form>
-        <!-- <form method="get" class="w-50 m-auto">
+        <form method="get" class="w-50 m-auto">
             <div class="mb-5">
                 <label for="Vote" class="form-label">Vote</label>
                 <select class="form-select form-select-lg" name="vote" id="Vote">
-                    <option selected></option>
+                    <option selected>All</option>
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
@@ -89,7 +89,7 @@ var_dump($_GET);
                 </select>
                 <button type="submit" name="vote_submit" class="btn btn-primary">OK</button>
             </div>
-        </form> -->
+        </form>
     </div>
 
 
@@ -131,6 +131,13 @@ var_dump($_GET);
                         }
                     }
 
+                    // Parking form if condition 
+                    if ($hotel["vote"] < $vote) {
+                        unset($hotels, $hotel);
+                    }
+
+                    // Vote form if condition
+                
                     ?>
                     <th scope="row">
 
