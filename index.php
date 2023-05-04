@@ -150,12 +150,7 @@ var_dump($_GET);
                         <?= $hotel["description"] ?>
                     </td>
                     <td>
-                        <?php if ($hotel["parking"] === true) { ?>
-                            ✅
-                        <?php } else { ?>
-                            ❌
-                            <?php
-                        } ?>
+                        <?= $hotel["parking"] ? '✅' : '❌' ?>
                     </td>
                     <td>
                         <?= $hotel["vote"] ?>
