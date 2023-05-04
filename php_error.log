@@ -1,0 +1,363 @@
+[03-May-2023 08:02:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-dd2261ca-ad66-49e6-bd3b-b078a2e98565.php on line 3
+[03-May-2023 08:02:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-dd2261ca-ad66-49e6-bd3b-b078a2e98565.php on line 12
+[03-May-2023 08:02:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-dd2261ca-ad66-49e6-bd3b-b078a2e98565.php on line 13
+[03-May-2023 08:02:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-dd2261ca-ad66-49e6-bd3b-b078a2e98565.php on line 16
+[03-May-2023 08:02:13 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-dd2261ca-ad66-49e6-bd3b-b078a2e98565.php on line 21
+[03-May-2023 10:09:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-3923de66-bed3-48b1-8911-432cfacd0842.php on line 3
+[03-May-2023 10:09:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-3923de66-bed3-48b1-8911-432cfacd0842.php on line 12
+[03-May-2023 10:09:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-3923de66-bed3-48b1-8911-432cfacd0842.php on line 13
+[03-May-2023 10:09:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-3923de66-bed3-48b1-8911-432cfacd0842.php on line 16
+[03-May-2023 10:09:08 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-3923de66-bed3-48b1-8911-432cfacd0842.php on line 21
+[03-May-2023 10:09:25 UTC] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[03-May-2023 10:09:27 UTC] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[03-May-2023 13:42:30 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php on line 2
+[03-May-2023 13:42:32 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php on line 2
+[03-May-2023 13:42:32 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php on line 2
+[03-May-2023 13:42:33 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php on line 2
+[03-May-2023 13:42:40 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php on line 2
+[03-May-2023 13:42:59 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php on line 2
+[03-May-2023 13:43:01 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php on line 2
+[03-May-2023 13:43:02 UTC] PHP Fatal error:  Uncaught Error: Array callback must have exactly two elements in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\index.php on line 2
+[03-May-2023 13:45:23 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 2
+[03-May-2023 13:45:24 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 2
+[03-May-2023 13:45:34 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 2
+[03-May-2023 13:45:36 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 2
+[03-May-2023 13:45:36 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 2
+[03-May-2023 13:45:36 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 2
+[03-May-2023 13:46:00 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:2
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 2
+[03-May-2023 13:53:44 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:27 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:27 UTC] PHP Stack trace:
+[03-May-2023 13:54:27 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[03-May-2023 13:54:28 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:28 UTC] PHP Stack trace:
+[03-May-2023 13:54:28 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[03-May-2023 13:54:28 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:28 UTC] PHP Stack trace:
+[03-May-2023 13:54:28 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[03-May-2023 13:54:28 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:28 UTC] PHP Stack trace:
+[03-May-2023 13:54:28 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[03-May-2023 13:54:28 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:28 UTC] PHP Stack trace:
+[03-May-2023 13:54:28 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[03-May-2023 13:54:30 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:30 UTC] PHP Stack trace:
+[03-May-2023 13:54:30 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[03-May-2023 13:54:36 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:36 UTC] PHP Stack trace:
+[03-May-2023 13:54:36 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[03-May-2023 13:54:45 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:45 UTC] PHP Stack trace:
+[03-May-2023 13:54:45 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[03-May-2023 13:54:55 UTC] PHP Warning:  Undefined array key 0 in C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php on line 4
+[03-May-2023 13:54:55 UTC] PHP Stack trace:
+[03-May-2023 13:54:55 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\php-badwords\php-badwords\badWord.php:0
+[04-May-2023 08:51:37 UTC] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-May-2023 08:51:39 UTC] PHP Warning:  Xdebug MUST be loaded as a Zend extension in Unknown on line 0
+[04-May-2023 08:51:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-042175b3-21df-4d01-a69d-c41fa2fd6c68.php on line 3
+[04-May-2023 08:51:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-042175b3-21df-4d01-a69d-c41fa2fd6c68.php on line 12
+[04-May-2023 08:51:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-042175b3-21df-4d01-a69d-c41fa2fd6c68.php on line 13
+[04-May-2023 08:51:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-042175b3-21df-4d01-a69d-c41fa2fd6c68.php on line 16
+[04-May-2023 08:51:42 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in C:\Users\peppe\AppData\Roaming\Appsolute\MAMP\pscripts\file-042175b3-21df-4d01-a69d-c41fa2fd6c68.php on line 21
+[04-May-2023 10:28:23 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:28:25 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:28:25 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:30:23 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "</br>", expecting "," or ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:30:24 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "</br>", expecting "," or ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:30:24 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "</br>", expecting "," or ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:30:25 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "</br>", expecting "," or ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:30:40 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "</br>", expecting "," or ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:30:41 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "</br>", expecting "," or ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:30:41 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "</br>", expecting "," or ";" in C:\MAMP\htdocs\PHP\snack_blocco_1\php-snacks-b1\index.php on line 32
+[04-May-2023 10:52:09 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:52:09 UTC] PHP Stack trace:
+[04-May-2023 10:52:09 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:52:09 UTC] PHP Stack trace:
+[04-May-2023 10:52:09 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:09 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:52:09 UTC] PHP Stack trace:
+[04-May-2023 10:52:09 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:52:09 UTC] PHP Stack trace:
+[04-May-2023 10:52:09 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:09 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:52:09 UTC] PHP Stack trace:
+[04-May-2023 10:52:09 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:52:09 UTC] PHP Stack trace:
+[04-May-2023 10:52:09 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:24 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:52:24 UTC] PHP Stack trace:
+[04-May-2023 10:52:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:52:24 UTC] PHP Stack trace:
+[04-May-2023 10:52:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:24 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:52:24 UTC] PHP Stack trace:
+[04-May-2023 10:52:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:52:24 UTC] PHP Stack trace:
+[04-May-2023 10:52:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:24 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:52:24 UTC] PHP Stack trace:
+[04-May-2023 10:52:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:52:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:52:24 UTC] PHP Stack trace:
+[04-May-2023 10:52:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:04 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:04 UTC] PHP Stack trace:
+[04-May-2023 10:53:04 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:04 UTC] PHP Stack trace:
+[04-May-2023 10:53:04 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:04 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:04 UTC] PHP Stack trace:
+[04-May-2023 10:53:04 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:04 UTC] PHP Stack trace:
+[04-May-2023 10:53:04 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:04 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:04 UTC] PHP Stack trace:
+[04-May-2023 10:53:04 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:04 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:04 UTC] PHP Stack trace:
+[04-May-2023 10:53:04 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:15 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:15 UTC] PHP Stack trace:
+[04-May-2023 10:53:15 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:15 UTC] PHP Stack trace:
+[04-May-2023 10:53:15 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:15 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:15 UTC] PHP Stack trace:
+[04-May-2023 10:53:15 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:15 UTC] PHP Stack trace:
+[04-May-2023 10:53:15 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:15 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:15 UTC] PHP Stack trace:
+[04-May-2023 10:53:15 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:15 UTC] PHP Stack trace:
+[04-May-2023 10:53:15 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:16 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:16 UTC] PHP Stack trace:
+[04-May-2023 10:53:16 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:16 UTC] PHP Stack trace:
+[04-May-2023 10:53:16 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:16 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:16 UTC] PHP Stack trace:
+[04-May-2023 10:53:16 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:16 UTC] PHP Stack trace:
+[04-May-2023 10:53:16 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:16 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:16 UTC] PHP Stack trace:
+[04-May-2023 10:53:16 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:16 UTC] PHP Stack trace:
+[04-May-2023 10:53:16 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:24 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:24 UTC] PHP Stack trace:
+[04-May-2023 10:53:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:24 UTC] PHP Stack trace:
+[04-May-2023 10:53:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:24 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:24 UTC] PHP Stack trace:
+[04-May-2023 10:53:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:24 UTC] PHP Stack trace:
+[04-May-2023 10:53:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:24 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:24 UTC] PHP Stack trace:
+[04-May-2023 10:53:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:24 UTC] PHP Stack trace:
+[04-May-2023 10:53:24 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:42 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:42 UTC] PHP Stack trace:
+[04-May-2023 10:53:42 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:42 UTC] PHP Stack trace:
+[04-May-2023 10:53:42 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:42 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:42 UTC] PHP Stack trace:
+[04-May-2023 10:53:42 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:42 UTC] PHP Stack trace:
+[04-May-2023 10:53:42 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:42 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:42 UTC] PHP Stack trace:
+[04-May-2023 10:53:42 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:42 UTC] PHP Stack trace:
+[04-May-2023 10:53:42 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:42 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 8
+[04-May-2023 10:53:42 UTC] PHP Stack trace:
+[04-May-2023 10:53:42 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:51 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:51 UTC] PHP Stack trace:
+[04-May-2023 10:53:51 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:53:51 UTC] PHP Stack trace:
+[04-May-2023 10:53:51 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:51 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:51 UTC] PHP Stack trace:
+[04-May-2023 10:53:51 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:53:51 UTC] PHP Stack trace:
+[04-May-2023 10:53:51 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:51 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:51 UTC] PHP Stack trace:
+[04-May-2023 10:53:51 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:53:51 UTC] PHP Stack trace:
+[04-May-2023 10:53:51 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:53:51 UTC] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 8
+[04-May-2023 10:53:51 UTC] PHP Stack trace:
+[04-May-2023 10:53:51 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:11 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:11 UTC] PHP Stack trace:
+[04-May-2023 10:55:11 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:11 UTC] PHP Stack trace:
+[04-May-2023 10:55:11 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:11 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:11 UTC] PHP Stack trace:
+[04-May-2023 10:55:11 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:11 UTC] PHP Stack trace:
+[04-May-2023 10:55:11 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:11 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:11 UTC] PHP Stack trace:
+[04-May-2023 10:55:11 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:11 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:11 UTC] PHP Stack trace:
+[04-May-2023 10:55:11 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:21 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:21 UTC] PHP Stack trace:
+[04-May-2023 10:55:21 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:21 UTC] PHP Stack trace:
+[04-May-2023 10:55:21 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:21 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:21 UTC] PHP Stack trace:
+[04-May-2023 10:55:21 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:21 UTC] PHP Stack trace:
+[04-May-2023 10:55:21 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:21 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:21 UTC] PHP Stack trace:
+[04-May-2023 10:55:21 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:21 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:21 UTC] PHP Stack trace:
+[04-May-2023 10:55:21 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 4
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 5
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Undefined variable $get in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 10:55:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php on line 6
+[04-May-2023 10:55:22 UTC] PHP Stack trace:
+[04-May-2023 10:55:22 UTC] PHP   1. {main}() C:\MAMP\htdocs\PHP\snacks\php-snacks-b1\snack_blocco_2\control.php:0
+[04-May-2023 13:00:03 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\MAMP\htdocs\PHP\php-hotel\index.php on line 46
+[04-May-2023 13:00:05 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\MAMP\htdocs\PHP\php-hotel\index.php on line 46
+[04-May-2023 13:00:05 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\MAMP\htdocs\PHP\php-hotel\index.php on line 46
