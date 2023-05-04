@@ -69,9 +69,8 @@ var_dump($_GET);
             <div class="mb-5">
                 <label for="parking" class="form-label">Parking</label>
                 <select class="form-select form-select-lg" name="parking" id="parking">
-                    <option selected>All</option>
-                    <option value="yes">Yes</option>
-                    <option value="no">No</option>
+                    <option value="All">All</option>
+                    <option value="Only with parking">Only with parking</option>
                 </select>
                 <button type="submit" name="parking_submit" class="btn btn-primary">OK</button>
             </div>
@@ -117,51 +116,64 @@ var_dump($_GET);
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <?php
+            <?php
 
-                foreach ($hotels as $hotel) {
-                    if ($parking == "yes") {
-                        if (!$hotel["parking"]) {
-                            unset($hotels, $hotel);
-                        }
-                    } else if ($parking == "no") {
-                        if ($hotel["parking"]) {
-                            unset($hotels, $hotel);
-                        }
-                    }
+            foreach ($hotels as $hotel) {
 
-                    // Parking form if condition 
-                    if ($hotel["vote"] < $vote) {
-                        unset($hotels, $hotel);
-                    }
-
-                    // Vote form if condition
-                
-                    ?>
-                    <th scope="row">
-
-                    </th>
-
-                    <td>
-                        <?= $hotel["name"] ?>
-                    </td>
-                    <td>
-                        <?= $hotel["description"] ?>
-                    </td>
-                    <td>
-                        <?= $hotel["parking"] ? '✅' : '❌' ?>
-                    </td>
-                    <td>
-                        <?= $hotel["vote"] ?>
-                    </td>
-                    <td>
-                        <?= $hotel["distance_to_center"] ?>
-                    </td>
-                </tr>
-            </tbody>
-        <?php }
                 ?>
+
+            <?php
+
+                if ($hotel["parking"] && ($parking === "Only with parking")) {
+                    ?>
+            <tr>
+                <th scope="row">
+
+                </th>
+
+                <td>
+                    <?= $hotel["name"] ?>
+                </td>
+                <td>
+                    <?= $hotel["description"] ?>
+                </td>
+                <td>
+                    <?= $hotel["parking"] ? '✅' : '❌' ?>
+                </td>
+                <td>
+                    <?= $hotel["vote"] ?>
+                </td>
+                <td>
+                    <?= $hotel["distance_to_center"] ?>
+                </td>
+            </tr>
+            <?php
+                } else if ($parking === "All") { ?>
+            <tr>
+                <th scope="row">
+
+                </th>
+
+                <td>
+                    <?= $hotel["name"] ?>
+                </td>
+                <td>
+                    <?= $hotel["description"] ?>
+                </td>
+                <td>
+                    <?= $hotel["parking"] ? '✅' : '❌' ?>
+                </td>
+                <td>
+                    <?= $hotel["vote"] ?>
+                </td>
+                <td>
+                    <?= $hotel["distance_to_center"] ?>
+                </td>
+            </tr>
+            <?php }?>
+        </tbody>
+        <?php }
+            ?>
     </table>
 
     <!-- hotels table -->
