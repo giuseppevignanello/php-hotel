@@ -39,6 +39,13 @@ $hotels = [
     ],
 
 ];
+//Hotels array
+
+$parking = $_GET["parking"];
+
+
+var_dump($_GET);
+
 
 
 ?>
@@ -58,31 +65,31 @@ $hotels = [
 
 <body>
     <div class="forms d-flex">
-        <form method="get" class="w-50 m-auto">
+        <form action="" method="get" class="w-50 m-auto">
             <div class="mb-5">
                 <label for="parking" class="form-label">Parking</label>
                 <select class="form-select form-select-lg" name="parking" id="parking">
-                    <option selected>Select one</option>
+                    <option selected></option>
                     <option value="yes">Yes</option>
                     <option value="no">No</option>
                 </select>
-                <button type="submit" class="btn btn-primary">OK</button>
+                <button type="submit" name="parking_submit" class="btn btn-primary">OK</button>
             </div>
         </form>
-        <form method="get" class="w-50 m-auto">
+        <!-- <form method="get" class="w-50 m-auto">
             <div class="mb-5">
                 <label for="Vote" class="form-label">Vote</label>
-                <select class="form-select form-select-lg" name="Vote" id="Vote">
-                    <option selected>Select one</option>
+                <select class="form-select form-select-lg" name="vote" id="Vote">
+                    <option selected></option>
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
                     <option value="4">4</option>
                     <option value="5">5</option>
                 </select>
-                <button type="submit" class="btn btn-primary">OK</button>
+                <button type="submit" name="vote_submit" class="btn btn-primary">OK</button>
             </div>
-        </form>
+        </form> -->
     </div>
 
 
@@ -112,7 +119,18 @@ $hotels = [
         <tbody>
             <tr>
                 <?php
+
                 foreach ($hotels as $hotel) {
+                    if ($parking == "yes") {
+                        if (!$hotel["parking"]) {
+                            unset($hotels, $hotel);
+                        }
+                    } else if ($parking == "no") {
+                        if ($hotel["parking"]) {
+                            unset($hotels, $hotel);
+                        }
+                    }
+
                     ?>
                     <th scope="row">
 
