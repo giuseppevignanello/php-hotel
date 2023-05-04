@@ -57,9 +57,37 @@ $hotels = [
 </head>
 
 <body>
+    <div class="forms d-flex">
+        <form method="get" class="w-50 m-auto">
+            <div class="mb-5">
+                <label for="parking" class="form-label">Parking</label>
+                <select class="form-select form-select-lg" name="parking" id="parking">
+                    <option selected>Select one</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+                <button type="submit" class="btn btn-primary">OK</button>
+            </div>
+        </form>
+        <form method="get" class="w-50 m-auto">
+            <div class="mb-5">
+                <label for="Vote" class="form-label">Vote</label>
+                <select class="form-select form-select-lg" name="Vote" id="Vote">
+                    <option selected>Select one</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                <button type="submit" class="btn btn-primary">OK</button>
+            </div>
+        </form>
+    </div>
 
 
-    <table class="table">
+
+    <table class="table mt-5">
 
         <thead>
             <tr>
@@ -86,10 +114,10 @@ $hotels = [
                 <?php
                 foreach ($hotels as $hotel) {
                     ?>
-
                     <th scope="row">
 
                     </th>
+
                     <td>
                         <?= $hotel["name"] ?>
                     </td>
@@ -115,6 +143,8 @@ $hotels = [
         <?php }
                 ?>
     </table>
+
+    <!-- hotels table -->
 </body>
 
 </html>
