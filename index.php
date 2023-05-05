@@ -46,8 +46,15 @@ $vote = $_GET["vote"];
 
 var_dump($_GET);
 
+//Utilizzare array filter 
+if ($parking == "Only with parking") {
+    $hotels = array_filter($hotels, function ($hotel) {
+        return $hotel["parking"];
+    });
+}
 
 
+//Per farli funzionare insieme semplciemente metterli nello stesso form
 ?>
 
 
@@ -72,10 +79,8 @@ var_dump($_GET);
                     <option value="All">All</option>
                     <option value="Only with parking">Only with parking</option>
                 </select>
-                <button type="submit" name="parking_submit" class="btn btn-primary">OK</button>
+
             </div>
-        </form>
-        <form method="get" class="w-50 m-auto">
             <div class="mb-5">
                 <label for="Vote" class="form-label">Vote</label>
                 <select class="form-select form-select-lg" name="vote" id="Vote">
@@ -86,9 +91,10 @@ var_dump($_GET);
                     <option value="4">4</option>
                     <option value="5">5</option>
                 </select>
-                <button type="submit" name="vote_submit" class="btn btn-primary">OK</button>
+                <button type="submit" name="parking_submit" class="btn btn-primary">OK</button>
             </div>
         </form>
+
     </div>
 
 
@@ -122,10 +128,6 @@ var_dump($_GET);
 
                 ?>
 
-            <?php
-
-                if ($hotel["parking"] && ($parking === "Only with parking")) {
-                    ?>
             <tr>
                 <th scope="row">
 
@@ -147,30 +149,8 @@ var_dump($_GET);
                     <?= $hotel["distance_to_center"] ?>
                 </td>
             </tr>
-            <?php
-                } else if ($parking === "All") { ?>
-            <tr>
-                <th scope="row">
 
-                </th>
 
-                <td>
-                    <?= $hotel["name"] ?>
-                </td>
-                <td>
-                    <?= $hotel["description"] ?>
-                </td>
-                <td>
-                    <?= $hotel["parking"] ? '✅' : '❌' ?>
-                </td>
-                <td>
-                    <?= $hotel["vote"] ?>
-                </td>
-                <td>
-                    <?= $hotel["distance_to_center"] ?>
-                </td>
-            </tr>
-            <?php }?>
         </tbody>
         <?php }
             ?>
